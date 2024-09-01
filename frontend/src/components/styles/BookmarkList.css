@@ -1,0 +1,37 @@
+.bookmark-table {
+    padding: 20px;
+    /* background-color: #ffffff; */
+    border-left: 1px solid #e0e0e0;
+    overflow-y: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th,
+td {
+    padding: 12px 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    /* background-color: #f4f4f4; */
+    font-weight: bold;
+}
+
+tr:hover {
+    /* background-color: #f1f1f1; */
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

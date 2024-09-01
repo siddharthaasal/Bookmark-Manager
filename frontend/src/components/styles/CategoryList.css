@@ -1,0 +1,35 @@
+/* Layout container */
+.layout {
+    display: flex;
+    height: 100vh;
+    /* Full viewport height */
+}
+
+/* Sidebar styling */
+.sidebar {
+    width: 250px;
+    /* background-color: #f8f9fa; */
+    padding: 20px;
+    /* box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); */
+}
+
+/* Content area styling */
+/* .content {
+    flex-grow: 1;
+    padding: 20px;
+    /* background-color: #ffffff; */
+
+
+/* Styling for Category items */
+.category-item {
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    /* background-color: #e9ecef; */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.category-item:hover {
+    /* background-color: #dee2e6; */
+}

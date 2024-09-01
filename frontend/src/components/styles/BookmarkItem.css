@@ -1,0 +1,24 @@
+.bookmark-item {
+    padding: 15px;
+    margin-bottom: 10px;
+    /* background-color: #e9ecef; */
+    border-radius: 5px;
+    /* box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); */
+}
+
+.bookmark-item h3 {
+    margin: 0 0 5px 0;
+}
+
+.bookmark-item p {
+    margin: 0 0 10px 0;
+}
+
+.bookmark-item a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.bookmark-item a:hover {
+    text-decoration: underline;
+}

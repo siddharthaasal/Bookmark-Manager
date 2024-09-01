@@ -1,0 +1,34 @@
+.header {
+    /* color: white; */
+    /* White text */
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    margin: 20px
+    ;
+}
+
+.header-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-title {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0;
+}
+
+.header-caption {
+    font-size: 1.2em;
+    font-weight: lighter;
+    margin: 0;
+}
+
+.header-icon {
+    /* Align the icon properly */
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+}
